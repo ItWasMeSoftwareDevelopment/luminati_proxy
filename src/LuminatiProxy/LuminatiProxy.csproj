@@ -16,4 +16,9 @@
     <None Remove="README.md" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\submodules\common_logging\CommonLogging.csproj" />
+    <ProjectReference Include="..\..\submodules\dotnet_http_basics\HttpBasics.csproj" />
+  </ItemGroup>
+
 </Project>

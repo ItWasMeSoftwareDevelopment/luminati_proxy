@@ -1,6 +1,7 @@
-﻿using System.Collections.Generic; 
+﻿using ItWasMe.HttpBasics;
+using System.Collections.Generic; 
 
-namespace DominatorHouse.LuminatiProxy
+namespace ItWasMe.LuminatiProxy
 {
 
     public interface IProxyConfig

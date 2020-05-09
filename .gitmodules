@@ -1,0 +1,8 @@
+[submodule "http-basics"]
+	path = submodules/.\\dotnet_http_basics
+	url = https://github.com/ItWasMeSoftwareDevelopment/dotnet_http_basics.git
+	branch = master
+[submodule "common-logging"]
+	path = submodules/common_logging
+	url = https://github.com/ItWasMeSoftwareDevelopment/common_logging.git
+	branch = master

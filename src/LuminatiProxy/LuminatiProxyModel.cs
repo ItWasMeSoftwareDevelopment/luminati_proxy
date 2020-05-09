@@ -1,4 +1,5 @@
-﻿using System; 
+﻿using ItWasMe.HttpBasics;
+using System; 
 
 namespace ItWasMe.LuminatiProxy
 {
