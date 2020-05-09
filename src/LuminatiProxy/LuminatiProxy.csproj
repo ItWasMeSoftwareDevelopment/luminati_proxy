@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\submodules\common_logging\CommonLogging.csproj" />
-    <ProjectReference Include="..\..\submodules\dotnet_http_basics\HttpBasics.csproj" />
+    <ProjectReference Include="$(SolutionDir)\..\..\submodules\common_logging\CommonLogging.csproj" />
+    <ProjectReference Include="$(SolutionDir)\..\..\submodules\dotnet_http_basics\HttpBasics.csproj" />
   </ItemGroup>
 
 </Project>
